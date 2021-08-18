@@ -1,0 +1,2 @@
+# planetas
+Primer repositorio escuela
